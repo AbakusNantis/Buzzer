@@ -1,0 +1,18 @@
+ToDos:
+
+Programm für UseCase umschreiben:
+- Programm läuft im unendlichn Loop
+- Fokus auf roten Button, andere 
+
+Autostart einrichten
+- Beim Start Programm hochfahren
+- Buzzer automatische pairen und Programm starten
+
+______________________________________________________
+
+Sound Modul
+- Entscheidung: Bluetooth oder Klinke oder on-board
+- Speaker anschließen
+- 4 individuelle Sounds verknüpfen mit Buzzer
+- Premium für Musikquiz:
+    - Beim Buzzern stoppt die Musik für x Sekunden
